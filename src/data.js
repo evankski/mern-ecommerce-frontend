@@ -1,8 +1,8 @@
 const data = {
     products: [
         {
-            name: 'Niki slim shirt',
-            slug: 'niki-slim-shirt',
+            name: 'Nike slim shirt',
+            slug: 'Nike-slim-shirt',
             category: 'Shirts',
             image: '/images/p1.jpg',
             price: 120,
@@ -25,8 +25,8 @@ const data = {
             description: 'Adidas performace shirt with an athletic fit'
         },
         {
-            name: 'Niki workout pants',
-            slug: 'niki-workout-pants',
+            name: 'Nike workout pants',
+            slug: 'Nike-workout-pants',
             category: 'Pants',
             image: '/images/p3.jpg',
             price: 85,
